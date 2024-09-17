@@ -1,0 +1,4 @@
+ScenarioKey,ScenarioLabel,ScenarioName,ScenarioDescription,ETLLoadID,LoadDate,UpdateDate
+1,"01","Actual","Actual",1,2009-07-11 14:43:19.000,2009-07-11 14:43:19.000
+2,"02","Budget","Budget",1,2009-07-11 14:43:19.000,2009-07-11 14:43:19.000
+3,"03","Forecast","Forecast",1,2009-07-11 14:43:19.000,2009-07-11 14:43:19.000
